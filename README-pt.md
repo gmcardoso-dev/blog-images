@@ -1,4 +1,6 @@
 
+(To see the README in English [click here](https://github.com/gmcardoso-dev/blog-images/blob/main/README.md).)
+
 # Repositório de Imagens para Blog 
 
 Este repositório armazena imagens utilizadas em posts do meu blog pessoal sobre desenvolvimento de software. 
